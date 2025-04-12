@@ -1,6 +1,6 @@
 # Olá! Sou Alisson Pereira 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alisson-pereira-ds/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alisson-pereira-ds/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Contato-red?style=flat&logo=gmail)](mailto:alissonpereira.contato@gmail.com)
 
 📊 **Cientista de Dados em Formação** (3º semestre) | Apaixonado por transformar dados em insights e soluções com **Machine Learning** e **IA**. Background em Design Gráfico agrega visão criativa à análise.
