@@ -1,43 +1,57 @@
-# Olá! Bem-vindo ao meu GitHub 👋
+# Olá! Sou [Seu Nome ou Apelido] 👋
 
-## 📊 Cientista de Dados em Formação
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alisson-pereira-ds/))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contato-red?style=flat&logo=gmail)](mailto:alissonpereira.contato@gmail.com)
 
-Graduando em Ciência de Dados (3º semestre), apaixonado por transformar dados em insights valiosos. Combino conhecimentos em análise de dados com background em design gráfico para criar soluções criativas e impactantes.
+📊 **Cientista de Dados em Formação** (3º semestre) | Apaixonado por transformar dados em insights e soluções com **Machine Learning** e **IA**. Background em Design Gráfico agrega visão criativa à análise.
 
-## 🔍 Foco Principal
-- 🎯 Em busca da primeira oportunidade como Cientista/Analista de Dados
-- Machine Learning
-- LLM's
-- Visualização de Dados
-- Estatística Aplicada
+🎯 **Principal Objetivo:** Buscando a **primeira oportunidade de estágio** em Ciência/Análise de Dados ou Engenheiro de IA para aplicar meus conhecimentos e aprender na prática.
 
-## 💻 Tecnologias & Ferramentas
+---
+
+### 💻 Tecnologias & Ferramentas
+
 ```python
 tech_stack = {
     'Linguagens': ['Python', 'SQL'],
-    'Data Analysis': ['Pandas', 'NumPy'],
-    'Visualização': ['Seaborn', 'Matplotlib'],
-    'Machine Learning': ['scikit-learn'],
-    'IA': ['Langchain','Huggingface'],
-    'Próximos Passos': ['TensorFlow', 'Deep Learning']
+    'Análise & ML': ['Pandas', 'NumPy', 'Scikit-learn', 'Regex'],
+    'IA & LLMs': ['LLms','LangChain', 'Hugging Face, Transformers', 'Agents' ],
+    'Visualização & UI': ['Plotly', 'Seaborn', 'Matplotlib', 'Streamlit'],
+    'Bancos de Dados': ['SQLite', 'MySQL],
+    'Ferramentas': ['Git', 'GitHub', 'Jupyter Notebook','VSCODE']
 }
 ```
 
-## 🚀 Destaques 
+## ✨ Projetos em Destaque
 
-- 📚 Cursando 3º semestre em Ciência de Dados
-- 🔬 Projeto: [Projeto Previsão Turnover ](https://github.com/srTeco/Projeto-Previsao-Turnover)
-- 🤖 Projeto- IA : [sophIA - Assistente Educacional](https://github.com/alissonpereirads/SOPHIA))
-- 📈 Estudante de cursos IBM focados em Data Science
-- 💡 Investindo em cursos e mentorias especializadas
+Organizei alguns projetos chave por área:
 
-## 🌱 Em Constante Evolução
-- Aprofundamento em Machine Learning
-- Aprofundamento em IA 
-- Desenvolvimento de projetos práticos
-- Estudo de novas tecnologias em Data Science
-- Foco em resolver problemas reais com dados
+### 🤖 Inteligência Artificial & LLMs
+
+* **[SophIA - Assistente Educacional](https://github.com/alissonpereirads/SOPHIA)** | **[Visite a Aplicação](https://link-para-aplicacao.com)**
+   * Assistente com IA (LangChain, Streamlit) para análise de desempenho estudantil.
+* **[Analisador de Dados em Excel com IA](https://github.com/alissonpereirads/brand)**
+   * Consulta dados de Excel usando linguagem natural (Agentes LangChain, Streamlit).
+* **[Chat PDF - Assistente de Manual](https://github.com/alissonpereirads/toreto)**
+   * Responde perguntas sobre PDFs usando RAG (LangChain, ChromaDB).
+* **[Paola - Extrator de Receitas do YouTube](https://github.com/alissonpereirads/paola)**
+   * Extrai e completa receitas de vídeos (YouTube API, Regex, LLM).
+* **[Outros Projetos de IA](https://github.com/alissonpereirads?tab=repositories)**
+   * Incluindo: Avaliador de Comportamento, Resumidor de Texto.
+
+### 📈 Data Science & Machine Learning
+
+* **[Análise Preditiva de Turnover](https://github.com/alissonpereirads/DataSciencePortfolio/tree/main/Analise_Preditiva_%20de_Turnover)**
+   * Pipeline completo (EDA, RandomForest, GridSearchCV) para prever saída de funcionários.
+* **[Previsão de Custos de Plano de Saúde](https://github.com/alissonpereirads/DataSciencePortfolio/blob/main/OtimizacaoPlanoSaude/README.md)**
+   * Modelo de Regressão (Gradient Boosting) e Web App (Streamlit) para estimar custos.
+
+## 🌱 Aprendendo Sempre
+
+* Aprofundando em **Machine Learning** e **Deep Learning**.
+* Explorando **MLOps** e **Engenharia de Features** avançada.
+* Sempre desenvolvendo **projetos práticos** para aplicar conceitos.
 
 ---
-*"Transformando dados em soluções que fazem a diferença"* 
 
+📫 **Vamos conectar!** Adoraria trocar ideias sobre dados e IA.
